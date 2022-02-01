@@ -2,7 +2,7 @@
 
 :raising_hand: Hi, my Name ist **Apollon Kelenc**
 
-🇩🇪 Im Living in **Munich**
+🇩🇪 I’m Living in **Munich**
 
 :seedling: I’m currently learning *Web Development* @ **Neue Fische** 
 
