@@ -6,7 +6,7 @@
 
 :seedling: I’m currently learning *Web Development* @ **neuefische GmbH** 
 
-📫 You can reach me at: domenkelenc24@gmail.com or at https://github.com/Apollon-Kelenc
+📫 You can reach me at: domenkelenc24@gmail.com
 
 <!--
 **Apollon-Kelenc/Apollon-Kelenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
