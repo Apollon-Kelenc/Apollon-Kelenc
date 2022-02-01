@@ -1,6 +1,6 @@
 ### Who am I?
 
-:raising_hand: Hi, My Name ist **Apollon Kelenc**
+:raising_hand: Hi, my Name ist **Apollon Kelenc**
 
 🇩🇪 Im Living in **Munich**
 
