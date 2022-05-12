@@ -4,7 +4,9 @@
 
 🇩🇪 I’m Living in **Munich**
 
-:seedling: Graduate *Web Development bootcamp* @ **neuefische GmbH** 
+:mortar_board: Graduate *Web Development bootcamp* @ **neuefische GmbH** 
+
+:necktie: Currently looking for a Job as Frontend Developer
 
 📫 You can reach me at: domenkelenc24@gmail.com
 
