@@ -4,7 +4,7 @@
 
 🇩🇪 I’m Living in **Munich**
 
-:mortar_board: Graduate *Web Development bootcamp* @ **neuefische GmbH** 
+:mortar_board: Graduate *Web Development Bootcamp* @ **neuefische GmbH** 
 
 :necktie: Currently looking for a Job as Frontend Developer
 
