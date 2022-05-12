@@ -4,7 +4,7 @@
 
 🇩🇪 I’m Living in **Munich**
 
-:seedling: I’m currently learning *Web Development* @ **neuefische GmbH** 
+:seedling: Graduate of *Web Development bootcamp* @ **neuefische GmbH** 
 
 📫 You can reach me at: domenkelenc24@gmail.com
 
