@@ -6,7 +6,7 @@
 
 :mortar_board: Graduate *Web Development Bootcamp* @ **neuefische GmbH** 
 
-:necktie: Currently looking for a Job as a Frontend Developer
+:necktie: Currently looking for a Job as a Junior Frontend Developer
 
 📫 You can reach me at: domenkelenc24@gmail.com
 
